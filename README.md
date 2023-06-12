@@ -2,7 +2,7 @@
 
 ###### Um pouco sobre o Marco
 Formado em Analise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia do Estado de São Paulo (FATEC-SP).
-Pós graduando em Engenharia de Software e também pós graduando em Data Science.
+Pós Graduado em Engenharia de Software e também cursando UX UI Design.
 
 ###
 
