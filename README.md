@@ -2,7 +2,7 @@
 
 ###### Um pouco sobre o Marco
 Formado em Analise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia do Estado de São Paulo (FATEC-SP).
-Pós Graduado em Engenharia de Software e também cursando UX UI Design.
+Pós Graduado em Engenharia de Software, cursando UX UI Design.
 
 ###
 
