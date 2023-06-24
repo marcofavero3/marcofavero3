@@ -1,6 +1,6 @@
 ### Olá pessoal, eu sou o Marco. 👋
 
-###### Um pouco sobre o Marco
+###### Um pouco sobre mim
 Formado em Analise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia do Estado de São Paulo (FATEC-SP).
 Pós Graduado em Engenharia de Software, cursando UX UI Design.
 
