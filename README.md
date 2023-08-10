@@ -2,7 +2,7 @@
 
 ###### Um pouco sobre mim
 Formado em Analise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia do Estado de São Paulo (FATEC-SP).
-Pós Graduado em Engenharia de Software, cursando UX UI Design.
+Pós Graduado em Engenharia de Software.
 
 ###
 ![Snake animation](https://github.com/dfilitto/dfilitto/blob/output/github-contribution-grid-snake.svg)
