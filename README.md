@@ -1,8 +1,9 @@
-### Olá pessoal, eu sou o Marco. 👋
+### Hi, I'm Marco  👋
 
-###### Um pouco sobre mim
-Formado em Analise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia do Estado de São Paulo (FATEC-SP).
-Pós Graduado em Engenharia de Software. 
+###### Software Engineer | Full Stack
+Full Stack Software Engineer focused on Java, Spring Boot, and Angular, with experience building RESTful APIs, secure authentication flows, and scalable web applications.
+
+Strong background in backend development, frontend integration, and API-driven architectures. Experienced with automation, low-code solutions, and process optimization to improve productivity and system reliability. 
 ###
 
 <p align="center">
@@ -15,10 +16,6 @@ Pós Graduado em Engenharia de Software.
 </p>
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcofavero3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcofavero3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 
