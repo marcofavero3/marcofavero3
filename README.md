@@ -14,7 +14,7 @@ Strong background in backend development, frontend integration, and API-driven a
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </p>
-###
+
 
 
 ###
