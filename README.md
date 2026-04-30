@@ -83,4 +83,4 @@ Fundador da **[Dev Dog Studio](https://devdogstudio.com.br)** — uma software h
   </a>
   <img src="https://komarev.com/ghpvc/?username=marcofavero3&color=84cc16&style=flat-square&label=profile+views" />
 </p>
-<p align="center"><i>"Code is read more than it's written — make it worth reading."</i></p>
+<p align="center"><i>"one day or day one"</i></p>
