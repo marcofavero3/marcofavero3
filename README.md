@@ -53,7 +53,7 @@ Fundador da **[Dev Dog Studio](https://devdogstudio.com.br)** — uma software h
 | Projeto | Stack | Status |
 |---|---|---|
 | 🐶 [Dev Dog Studio](https://devdogstudio.com.br) | HTML · CSS · JS | `live` |
-| 🔐 Auth Service | Spring Boot · JWT · PostgreSQL | `em breve` |
+| 📋 [Kanban API](https://github.com/marcofavero3/kanban-api) · [UI](https://github.com/marcofavero3/kanban-ui) | Spring Boot · Angular · JWT · PostgreSQL | `em desenvolvimento` |
 | 📊 PolyReader | Spring Boot · Angular · Polymarket API | `em desenvolvimento` |
  
 ---
