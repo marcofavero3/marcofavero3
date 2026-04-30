@@ -1,16 +1,11 @@
-<div align="center">
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   marco antonio favero junior                        ║
-║   full stack engineer · java · spring · angular      ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
+<h1 align="center">marco antonio favero junior</h1>
+<h4 align="center">full stack engineer · java · spring · angular</h4>
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=84CC16&center=true&vCenter=true&width=500&lines=Building+APIs+that+don't+fall+apart+at+3am;Spring+Boot+%2B+Angular+%2B+too+much+coffee;Founder+%40+Dev+Dog+Studio;Open+to+work+%26+collaboration)](https://git.io/typing-svg)
- 
-</div>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=84CC16&center=true&vCenter=true&width=500&lines=Building+APIs+that+don't+fall+apart+at+3am;Spring+Boot+%2B+Angular+%2B+too+much+coffee;Founder+%40+Dev+Dog+Studio;Open+to+work+%26+collaboration" alt="Typing SVG" />
+  </a>
+</p>
 ---
  
 ## `$ whoami`
@@ -47,10 +42,10 @@ Fundador da **[Dev Dog Studio](https://devdogstudio.com.br)** — uma software h
  
 ## `$ git log --stats`
  
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=marcofavero3&show_icons=true&theme=dark&bg_color=0d1117&border_color=84cc16&icon_color=84cc16&title_color=84cc16&text_color=c9d1d9&hide_border=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcofavero3&layout=compact&theme=dark&bg_color=0d1117&border_color=84cc16&title_color=84cc16&text_color=c9d1d9&hide_border=false" />
-</div>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=marcofavero3&show_icons=true&theme=dark&bg_color=0d1117&border_color=84cc16&icon_color=84cc16&title_color=84cc16&text_color=c9d1d9&hide_border=false" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcofavero3&layout=compact&theme=dark&bg_color=0d1117&border_color=84cc16&title_color=84cc16&text_color=c9d1d9&hide_border=false" />
+</p>
 ---
  
 ## `$ ls ./projects`
@@ -76,13 +71,16 @@ Fundador da **[Dev Dog Studio](https://devdogstudio.com.br)** — uma software h
  
 ---
  
-<div align="center">
-<img src="https://raw.githubusercontent.com/marcofavero3/marcofavero3/output/snake.svg" alt="contribution snake" />
-<br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-marco--favero-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-favero/)
-[![Dev Dog Studio](https://img.shields.io/badge/Studio-devdogstudio.com.br-84cc16?style=flat-square&logo=googlechrome&logoColor=white)](https://devdogstudio.com.br)
-![Profile views](https://komarev.com/ghpvc/?username=marcofavero3&color=84cc16&style=flat-square&label=profile+views)
- 
-*"Code is read more than it's written — make it worth reading."*
- 
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marcofavero3/marcofavero3/output/snake.svg" alt="contribution snake" />
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/marco-favero/">
+    <img src="https://img.shields.io/badge/LinkedIn-marco--favero-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://devdogstudio.com.br">
+    <img src="https://img.shields.io/badge/Studio-devdogstudio.com.br-84cc16?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=marcofavero3&color=84cc16&style=flat-square&label=profile+views" />
+</p>
+<p align="center"><i>"Code is read more than it's written — make it worth reading."</i></p>
